@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MlKitComposeAndroid</string>
+
+    <string name="face_mesh_detection_title">Face mesh detection</string>
+    <string name="face_mesh_detection_description">Find out detailed face shapes in pictures taken up close.</string>
+    <string name="face_mesh_detection_url">https://developers.google.com/static/ml-kit/vision/face-detection/images/face_detection2x.png</string>
+
+    <string name="barcode_detection_title">Barcode scanning</string>
+    <string name="barcode_detection_description">Use your phone to scan and understand barcode information. It works with most types of barcodes.</string>
+    <string name="barcode_detection_url">https://developers.google.com/static/ml-kit/vision/barcode-scanning/images/barcode_scanning2x.png</string>
+
+    <string name="text_recognition_title">Text recognition</string>
+    <string name="text_recognition_description">Let your device read and copy text from images for you.</string>
+    <string name="text_recognition_url">https://developers.google.com/static/ml-kit/vision/text-recognition/images/text_recognition2x.png</string>
+
+    <string name="image_labeling_detection_title">Image labeling</string>
+    <string name="image_labeling_detection_description">Your device can tell you what it sees in images: animals, objects, places, and more.</string>
+    <string name="image_labeling_detection_url">https://developers.google.com/static/ml-kit/vision/image-labeling/images/image_labeling2x.png</string>
+
+    <string name="object_detection_title">Object detection</string>
+    <string name="object_detection_description">Watch as your device spots and tracks one or more objects in real-time using its camera.</string>
+    <string name="object_detection_url">https://developers.google.com/static/ml-kit/vision/object-detection/images/object_detection2x.png</string>
+</resources>
